@@ -1,0 +1,66 @@
+com/capgemini/market/web/controller/PurchaseController.java
+ com.capgemini.market.web.controller.PurchaseController
+com/capgemini/market/persistence/entity/Cliente.java
+ com.capgemini.market.persistence.entity.Cliente
+com/capgemini/market/domain/dto/AuthenticationRequest.java
+ com.capgemini.market.domain.dto.AuthenticationRequest
+com/capgemini/market/persistence/mapper/PurchaseItemMapper.java
+ com.capgemini.market.persistence.mapper.PurchaseItemMapper
+com/capgemini/market/web/security/filter/JwtFilterRequest.java
+ com.capgemini.market.web.security.filter.JwtFilterRequest
+com/capgemini/market/persistence/entity/Producto.java
+ com.capgemini.market.persistence.entity.Producto
+com/capgemini/market/persistence/crud/ProductoCrudRepository.java
+ com.capgemini.market.persistence.crud.ProductoCrudRepository
+com/capgemini/market/domain/Product.java
+ com.capgemini.market.domain.Product
+com/capgemini/market/persistence/mapper/ProductMapper.java
+ com.capgemini.market.persistence.mapper.ProductMapper
+com/capgemini/market/domain/service/PurchaseService.java
+ com.capgemini.market.domain.service.PurchaseService
+com/capgemini/market/persistence/ProductoRepository.java
+ com.capgemini.market.persistence.ProductoRepository
+com/capgemini/market/domain/PurchaseItem.java
+ com.capgemini.market.domain.PurchaseItem
+com/capgemini/market/web/config/SwaggerConfig.java
+ com.capgemini.market.web.config.SwaggerConfig
+com/capgemini/market/domain/dto/AuthenticationResponse.java
+ com.capgemini.market.domain.dto.AuthenticationResponse
+com/capgemini/market/web/controller/ProductController.java
+ com.capgemini.market.web.controller.ProductController
+com/capgemini/market/persistence/entity/Categoria.java
+ com.capgemini.market.persistence.entity.Categoria
+com/capgemini/market/persistence/entity/Compra.java
+ com.capgemini.market.persistence.entity.Compra
+com/capgemini/market/persistence/mapper/PurchaseMapper.java
+ com.capgemini.market.persistence.mapper.PurchaseMapper
+com/capgemini/market/persistence/entity/ComprasProducto.java
+ com.capgemini.market.persistence.entity.ComprasProducto
+com/capgemini/market/domain/service/CapgeminiUserDetailsService.java
+ com.capgemini.market.domain.service.CapgeminiUserDetailsService
+com/capgemini/market/domain/repository/PurchaseRepository.java
+ com.capgemini.market.domain.repository.PurchaseRepository
+com/capgemini/market/web/security/JWTUtil.java
+ com.capgemini.market.web.security.JWTUtil
+com/capgemini/market/web/security/SecurityConfig.java
+ com.capgemini.market.web.security.SecurityConfig
+com/capgemini/market/persistence/mapper/CategoryMapper.java
+ com.capgemini.market.persistence.mapper.CategoryMapper
+com/capgemini/market/domain/service/ProductService.java
+ com.capgemini.market.domain.service.ProductService
+com/capgemini/market/domain/repository/ProductRepository.java
+ com.capgemini.market.domain.repository.ProductRepository
+com/capgemini/market/domain/Category.java
+ com.capgemini.market.domain.Category
+com/capgemini/market/persistence/CompraRepository.java
+ com.capgemini.market.persistence.CompraRepository
+com/capgemini/market/persistence/entity/ComprasProductoPK.java
+ com.capgemini.market.persistence.entity.ComprasProductoPK
+com/capgemini/market/CapgeminiMarketApplication.java
+ com.capgemini.market.CapgeminiMarketApplication
+com/capgemini/market/persistence/crud/CompraCrudRepository.java
+ com.capgemini.market.persistence.crud.CompraCrudRepository
+com/capgemini/market/domain/Purchase.java
+ com.capgemini.market.domain.Purchase
+com/capgemini/market/web/controller/AuthController.java
+ com.capgemini.market.web.controller.AuthController

@@ -1,0 +1,2 @@
+com/capgemini/market/CapgeminiMarketApplicationTests.java
+ com.capgemini.market.CapgeminiMarketApplicationTests
